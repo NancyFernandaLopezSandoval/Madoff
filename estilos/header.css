@@ -1,0 +1,16 @@
+.headerlogin{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 32px;
+    
+    
+    width: 270px;
+    height: 77px;
+    
+    
+    color: #fff;
+    background: #3A7A3C;
+    border-radius: 0px 0px 20px 20px;
+    }
